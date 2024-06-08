@@ -30,6 +30,3 @@ coverage==6.3.2
 
 # Utilities
 httpie==3.2.1
-
-#Mongo
-pymongo=4.7.3
